@@ -11,4 +11,4 @@ pronto estaremos añadiendo mas detalles
 
 recuerda añadir las dependencias con el comando: npm i para que funcione correctamente la aplicacion
 
-<img height="600px" src="./captures/WhatsApp Image 2022-03-14 at 6.49.50 PM.jpeg">
+<img height="600px" src="./images/Captura de pantalla (247).png">
